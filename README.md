@@ -1,4 +1,4 @@
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sarah-Katz?cardType=level-alternate&theme=dracula&Border=A91962&Text=DDDDDD&Title=D7207D&Ring=A91962)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sarah-Katz?cardType=level&theme=vision-friendly-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 ___
 ## Contact
 [![(Linked in link)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-katz-dev/)
