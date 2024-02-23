@@ -42,7 +42,8 @@
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sarah.katz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarah-katz-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarah-katz-dev)<br>
+[![CodeWars](https://www.codewars.com/users/SarahKatz/badges/micro)](https://www.codewars.com/users/SarahKatz)
 
 # 📊 GitHub Stats:
 
